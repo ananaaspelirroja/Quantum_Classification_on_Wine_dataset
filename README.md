@@ -15,7 +15,7 @@ Il focus è metodologico: come progettare pipeline ibride (classico + quantum), 
 2. **Encoding quantistico**  
    - Mappe di feature \(ZFeatureMap, ZZFeatureMap, ecc.\) per trasformare i vettori reali in stati quantistici.  
 3. **Progettazione dell’ansatz**  
-   - Vari schemi (EfficientSU2, TwoLocal, Hardware-Efficient) modulati da *reps* e *entanglement* pattern.  
+   - Vari schemi (EfficientSU2, TwoLocal, ecc.) modulati da *reps* e *entanglement* pattern.  
 4. **Ottimizzazione dei parametri**  
    - Confronto fra ottimizzatori derivative-free (COBYLA, Nelder–Mead, Powell) e gradient-based (L-BFGS-B, SLSQP).  
 5. **Back-end di esecuzione**  
