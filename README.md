@@ -1,5 +1,5 @@
 # Quantum Classification on Wine Dataset  
-> Variational Quantum Circuits on the UCI Wine dataSET
+> Variational Quantum Circuits on the UCI Wine dataset
 
 ## 🗺️ Che cosa troverai qui
 
