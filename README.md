@@ -24,8 +24,7 @@ Il focus è metodologico: come progettare pipeline ibride (classico + quantum), 
 6. **Baseline classiche**  
    - SVM, Random Forest, K-NN, Naïve Bayes, Gradient Boosting, Logistic Regression.  
 
-
-> **Nota**: il progetto non si limita a “far girare un VQC”, ma documenta tutte le scelte di design e crea template riutilizzabili per dataset di dimensioni/qubit diverse.
+---
 
 ## 📂 Struttura della repo
 
@@ -37,4 +36,17 @@ Il focus è metodologico: come progettare pipeline ibride (classico + quantum), 
 | `Relazione_progetto_Quantum_Computing.pdf` | Report analitico con dettagli teorici e diagrammi |
 | `requirements.txt` | Dipendenze principali (Qiskit, scikit-learn, ecc.) |
 | `README.md` | Questa descrizione |
+
+
+## 👥 Autori
+
+- Anastasia Martucci
+- Giuseppe Zappia
+
+
+---
+
+## 📌 Note finali
+
+Il progetto è stato sviluppato nell’ambito del corso di Quantum Computing (A.A. 2024/2025), all’interno del corso di laurea magistrale in Ingegneria Informatica presso l’Università della Calabria.
 
